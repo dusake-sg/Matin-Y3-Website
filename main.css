@@ -58,7 +58,7 @@ span {
 }
 
 .background {
-  background-image: url(/assets/images/double-bubble-outline.png);
+  background-image: url(assets/images/double-bubble-outline.png);
   background-repeat: repeat;
   height: 100vh;
   position: relative;
@@ -167,22 +167,22 @@ border: 3px solid green;
 
 #repo, #repo a {
   color: #CCFF00;
-  background-image: url(/assets/images/home-repo-blue.jpg);
+  background-image: url(assets/images/home-repo-blue.jpg);
 }
 
 #cpj, #cpj a {
   color: #FF005C;
-  background-image: url(/assets/images/home-cpj-pink.jpg);
+  background-image: url(assets/images/home-cpj-pink.jpg);
 }
 
 #cat {
   color: #0066FF;
-  background-image: url(/assets/images/home-cat-red.jpg);
+  background-image: url(assets/images/home-cat-red.jpg);
 }
 
 #proto {
   color: #33FF00;
-  background-image: url(/assets/images/home-proto-green.jpg);
+  background-image: url(assets/images/home-proto-green.jpg);
 }
 
 .section {
@@ -347,7 +347,7 @@ border: 3px solid green;
   align-items: center;
   height: 100vh;
   text-align: center;
-  background-image: url(/assets/images/entry-bg-1.png);
+  background-image: url(assets/images/entry-bg-1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -468,7 +468,7 @@ border: 3px solid green;
 
 /* footer */
 #footer {
-  background-image: url(/assets/images/double-bubble-outline.png);
+  background-image: url(assets/images/double-bubble-outline.png);
 }
 
 .footer {
