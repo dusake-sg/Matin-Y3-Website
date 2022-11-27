@@ -175,12 +175,12 @@ border: 3px solid green;
   background-image: url(assets/images/home-cpj-pink.jpg);
 }
 
-#cat {
+#cat, #cat a {
   color: #0066FF;
   background-image: url(assets/images/home-cat-red.jpg);
 }
 
-#proto {
+#proto, #proto a {
   color: #33FF00;
   background-image: url(assets/images/home-proto-green.jpg);
 }
@@ -311,6 +311,13 @@ border: 3px solid green;
   position: absolute;
   top: 50px;
   left: -50px
+}
+
+.sitemap-cat-image-1 {
+  width: 500px;
+  position: absolute;
+  top: 60px;
+  left: -80px
 }
 
 .sitemap-cpj-image-2 {
